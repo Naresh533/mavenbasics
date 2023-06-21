@@ -6,3 +6,13 @@ maven lifecycle:
 default
 site
 clean
+
+Maven Default lifecycle Phases
+==============================
+validate
+compile
+test
+package
+verify
+install
+deploy
